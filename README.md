@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![snake animation](https://github.com/marcoshaa/marcoshaa/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **marcoshaa/marcoshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
