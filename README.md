@@ -1,50 +1,58 @@
-## Hi! My name is Marcos Andrade, welcome my repository
-I am software development since 2020, working with different technologies and solving many types of problems.
----
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=marcoshaa&column=9&theme=gruvbox&no-frame=true"/>
-</a>
----
+  <h1 align="center">Hi, I'm Marcos Andrade 👋</h1>
 
-##
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoshaa&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshaa&layout=compact&theme=dark"/>
-</div>
+  <p align="center">
+    Backend developer & indie builder from São Paulo, Brazil.<br/>
+    Building software since 2020 — now turning side projects into products.
+  </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sutil-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Sutil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sutil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sutil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sutil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sutil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sutil-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Sutil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Sutil-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-</div>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/marcoshaa/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:m.andrade.assis@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/marcosh_as/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
 
-  
-##
-  
-<div> 
-  <a href="https://www.instagram.com/marcosh_as/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:m.andrade.assis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcoshaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<!--
-![snake animation](https://github.com/marcoshaa/marcoshaa/blob/output/github-contribution-grid-snake2.svg)
-**marcoshaa/marcoshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
 
-Here are some ideas to get you started:
+  ### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Aluguel Manager** — Rental property management SaaS with AI chat. Ask "who owes rent?" and get an instant answer. Stack: PHP 8, MySQL, Gemini API.
+  - **Despachante Consulta** — Internal tool that centralizes Brazilian vehicle data queries (DETRAN-SP, IPVANET, SENATRAN) into a single dashboard. Stack: PHP, SQLite.
+
+  ---
+
+  ### Tech stack
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
+
+  ---
+
+  ### GitHub stats
+
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoshaa&show_icons=true&theme=dark&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoshaa&layout=compact&theme=dark&hide_border=true"/>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=marcoshaa&column=9&theme=gruvbox&no-frame=true"/>
+    </a>
+  </p>
+
+  ---
